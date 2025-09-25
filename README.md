@@ -14,7 +14,7 @@ The analysis combines descriptive statistics, spatial autocorrelation tests, and
 ---
 
 ## Project Structure
-poverty-analysis-italy/
+│── poverty-analysis-italy/
 │── data/ # Datasets (ISTAT/BES). If not shareable, provide links in README
 │── scripts/ # R code for each step of the analysis
 │ │── 01_data_cleaning.R
