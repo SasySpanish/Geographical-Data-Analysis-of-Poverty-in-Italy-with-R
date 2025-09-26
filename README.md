@@ -59,9 +59,6 @@ The project is divided into 5 main scripts:
 - European Pillar of Social Rights (EPSR)  
 - Italian National Recovery and Resilience Plan (PNRR)  
 
----
 
-## Authors
-- F.Cecere  
-- G.Masiello  
-- S.Spagnuolo  
+## 
+From a F.Cecere, G.Masiello & S.Spagnuolo collaboration.
