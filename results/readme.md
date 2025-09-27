@@ -9,8 +9,8 @@ The analysis combined descriptive statistics, spatial autocorrelation tests, and
 - The **distribution of poverty risk** across Italian regions shows **positive skewness**: most regions have relatively low values, but some regions experience very high poverty risk.  
 - Boxplots and histograms highlight **regional disparities** and the presence of extreme cases.  
 
-![Boxplot of Poverty Risk](link_to_boxplot.png)  
-![Histogram of Poverty Risk](link_to_histogram.png)  
+![Boxplot of Poverty Risk](images/boxplotpov.png)  
+![Histogram of Poverty Risk](images/histpov.png)  
 
 ---
 
@@ -22,8 +22,8 @@ The analysis combined descriptive statistics, spatial autocorrelation tests, and
   - **Low–Low clusters** in the North (regions with low poverty surrounded by similar regions)  
   - Few isolated High–Low or Low–High cases  
 
-![Moran Scatterplot](link_to_moran_scatterplot.png)  
-![LISA Cluster Map](link_to_lisa_map.png)  
+![Moran Scatterplot](maps/moranmapscatter.png)  
+
 
 ---
 
@@ -38,12 +38,12 @@ The analysis combined descriptive statistics, spatial autocorrelation tests, and
 - SAR ≈ 86.9  
 - SAC ≈ 81.9 → **preferred model**  
 
-![SAR vs SAC Model Comparison](link_to_model_comparison.png)  
+![SAR vs SAC Model Comparison](images/sarsacresultshd.png)  
 
 - **Direct and indirect effects** (from SAC) show that socio-economic factors in one region can have **spillover effects** on neighboring regions. For example:
   - **Low work intensity** in one region not only increases local poverty risk, but also influences poverty risk in adjacent regions.  
 
-![SAC Impacts Results](link_to_impacts.png)  
+![SAC Impacts Results](images/effectvar.png)  
 
 ---
 
