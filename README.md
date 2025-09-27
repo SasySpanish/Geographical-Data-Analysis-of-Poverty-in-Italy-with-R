@@ -14,7 +14,7 @@ The analysis combines descriptive statistics, spatial autocorrelation tests, and
 ---
 
 ## Workflow
-The project is divided into 5 main scripts:
+The project is divided into 5 main scripts in `src`:
 
 1. **01_data_preparation.R** → Load shapefile and poverty dataset, merge, clean, and explore.  
 2. **02_exploratory_analysis.R** → Descriptive statistics, plots, and OLS baseline models.  
