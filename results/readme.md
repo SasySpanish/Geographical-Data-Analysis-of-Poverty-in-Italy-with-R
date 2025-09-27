@@ -2,7 +2,7 @@
 
 This section summarizes the main findings of the project *Geographical Data Analysis of Poverty in Italy*.  
 The analysis combined descriptive statistics, spatial autocorrelation tests, and spatial regression models (SAR and SAC).  
-![Variable Description brief](vardescription.md)
+- !Variable Description brief(vardescription.md)
 ---
 
 ## Descriptive Analysis
