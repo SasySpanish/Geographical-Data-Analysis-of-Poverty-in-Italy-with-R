@@ -34,7 +34,7 @@ The project is divided into 5 main scripts in `src`:
 
 ---
 
-## Key Results
+## Key [Results](results/readme.md)
 - Strong territorial divide between Northern and Southern Italy in terms of poverty risk  
 - Moran’s I ≈ 0.72 → strong spatial autocorrelation detected  
 - **SAC model** outperformed SAR (lower AIC score)  
