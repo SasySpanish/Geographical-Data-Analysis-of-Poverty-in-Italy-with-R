@@ -13,7 +13,7 @@ The analysis combines descriptive statistics, spatial autocorrelation tests, and
 
 ---
 
-## Workflow
+## [Workflow](results/readme.md)
 The project is divided into 5 main scripts in `src`:
 
 1. **01_data_preparation.R** → Load shapefile and poverty dataset, merge, clean, and explore.  
@@ -39,17 +39,6 @@ The project is divided into 5 main scripts in `src`:
 - Moran’s I ≈ 0.72 → strong spatial autocorrelation detected  
 - **SAC model** outperformed SAR (lower AIC score)  
 - Policy implications connected to PNRR and European Pillar of Social Rights  
-
----
-
-## How to Reproduce
-1. Clone this repository  
-2. Install the required R packages listed in `requirements.txt`  
-3. Run the scripts in the `scripts/` folder in order:  
-   - `01_data_cleaning.R`  
-   - `02_exploratory_analysis.R`  
-   - `03_spatial_analysis.R`  
-   - `04_models.R`  
 
 ---
 
