@@ -6,9 +6,9 @@ Each script corresponds to a specific step of the analysis.
 ---
 
 ### 1. `01_data_preparation.R` – Data loading and cleaning
-- **Purpose**: Import the Italian NUTS2 shapefile and the poverty dataset, merge them into a single spatial object, and prepare data for analysis.  
+- **Purpose**: Import the Italian NUTS2 shapefile (.shp) and the poverty dataset, merge them into a single spatial object, and prepare data for analysis.  
 - **Main tasks**:
-  - Load shapefile with `st_read()`
+  - Load shapefile (.shp) with `st_read()`
   - Load poverty data (`poverta.csv`)
   - Merge datasets on NUTS2 codes
   - Clean and rename problematic column names
