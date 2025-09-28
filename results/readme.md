@@ -43,7 +43,7 @@ The analysis combined descriptive statistics, spatial autocorrelation tests, and
 - **Direct and indirect effects** (from SAC) show that socio-economic factors in one region can have **spillover effects** on neighboring regions. For example:
   - **Low work intensity** in one region not only increases local poverty risk, but also influences poverty risk in adjacent regions.  
 
-![SAC Impacts Results](images/effectvar.jpg)  
+![SAC Impacts Results](images/effectvar.jpg)  ![low work](images/lowworkintensity.png)
 
 ---
 
