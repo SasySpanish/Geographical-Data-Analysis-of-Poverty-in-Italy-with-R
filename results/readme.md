@@ -49,7 +49,8 @@ The analysis combined descriptive statistics, spatial autocorrelation tests, and
 
 ## Policy Implications
 - The strong **North–South divide** in poverty risk highlights structural inequalities within Italy.  
-- Spatial dependence suggests that **regional policies cannot be isolated**: interventions in one region can affect neighboring regions.  
+- Spatial dependence suggests that **regional policies cannot be isolated**: interventions in one region can affect neighboring regions.
+- ![aaa](images/italypovmap.png)
 - Findings are consistent with EU and national frameworks such as:
   - **European Pillar of Social Rights (EPSR)**  
   - **Italian National Recovery and Resilience Plan (PNRR)**  
