@@ -72,7 +72,7 @@ Each script corresponds to a specific step of the analysis.
 
 ---
 
-### 🔑 Key Findings
+### 🔑 Key [Results](results/readme.md)
 - **Moran’s I ≈ 0.72** → strong positive spatial autocorrelation in poverty risk  
 - Clear North–South divide: High–High clusters in the South, Low–Low clusters in the North  
 - **SAC model** best explains spatial dynamics (lowest AIC, significant results)  
