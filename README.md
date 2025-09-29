@@ -16,7 +16,7 @@ The analysis combines descriptive statistics, spatial autocorrelation tests, and
 ---
 
 ## Workflow
-The project is based on a poverty rate dataset from Italian Statistical Institute INSTAT [avaiable here](data/readme.md) analized by 5 main scripts in `src` [descripted here](src/readme.md):
+The project is based on a poverty rate dataset from Italian Statistical Institute ISTAT [avaiable here](data/readme.md) that contains [8 sociodemographic variables](results/vardescription.md) analized by 5 main scripts in `src` [descripted here](src/readme.md):
 
 1. **01_data_preparation.R** → Load shapefile and poverty dataset, merge, clean, and explore.  
 2. **02_exploratory_analysis.R** → Descriptive statistics, plots, and OLS baseline models.  
