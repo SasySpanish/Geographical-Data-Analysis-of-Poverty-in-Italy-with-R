@@ -5,7 +5,6 @@ The analysis combines descriptive statistics, spatial autocorrelation tests, and
 - [Interactive map](https://sasyspanish.github.io/Geographical-Data-Analysis-of-Poverty-in-Italy-with-R/results/maps/map.html) of poverty risk in Italy
 - ↓ Screenshot from the [Interactive map](https://sasyspanish.github.io/Geographical-Data-Analysis-of-Poverty-in-Italy-with-R/results/maps/map.html) ↓ 
 - ![screenshot from the interactive map](results/maps/pythonmap.png)
-- 
 ---
 
 ## Objectives
@@ -17,7 +16,7 @@ The analysis combines descriptive statistics, spatial autocorrelation tests, and
 ---
 
 ## Workflow
-The project is divided into 5 main scripts in `src` [and better descripted here](src/readme.md):
+The project is based on a poverty rate dataset from Italian Statistical Institute INSTAT [avaiable here](data/readme.md) analized by 5 main scripts in `src` [descripted here](src/readme.md):
 
 1. **01_data_preparation.R** → Load shapefile and poverty dataset, merge, clean, and explore.  
 2. **02_exploratory_analysis.R** → Descriptive statistics, plots, and OLS baseline models.  
