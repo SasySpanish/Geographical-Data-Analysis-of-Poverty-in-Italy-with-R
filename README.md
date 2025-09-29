@@ -2,6 +2,10 @@
 
 This project explores poverty in Italy through a geographical and statistical perspective, using data from ISTAT and BES (Benessere Equo e Sostenibile).  
 The analysis combines descriptive statistics, spatial autocorrelation tests, and spatial regression models to highlight territorial inequalities and socio-economic drivers of poverty.
+
+The project is based on a poverty rate dataset from Italian Statistical Institute ISTAT [avaiable here](data/readme.md) that contains [8 sociodemographic variables](data/vardescription.md) analized by 5 main scripts in `src` [descripted here](src/readme.md)
+
+
 - [Interactive map](https://sasyspanish.github.io/Geographical-Data-Analysis-of-Poverty-in-Italy-with-R/results/maps/map.html) of poverty risk in Italy
 - ↓ Screenshot from the [Interactive map](https://sasyspanish.github.io/Geographical-Data-Analysis-of-Poverty-in-Italy-with-R/results/maps/map.html) ↓ 
 - ![screenshot from the interactive map](results/maps/pythonmap.png)
@@ -16,8 +20,6 @@ The analysis combines descriptive statistics, spatial autocorrelation tests, and
 ---
 
 ## Workflow
-The project is based on a poverty rate dataset from Italian Statistical Institute ISTAT [avaiable here](data/readme.md) that contains [8 sociodemographic variables](results/vardescription.md) analized by 5 main scripts in `src` [descripted here](src/readme.md):
-
 1. **01_data_preparation.R** → Load shapefile and poverty dataset, merge, clean, and explore.  
 2. **02_exploratory_analysis.R** → Descriptive statistics, plots, and OLS baseline models.  
 3. **03_spatial_weights.R** → Build spatial weight matrices (Queen contiguity).  
