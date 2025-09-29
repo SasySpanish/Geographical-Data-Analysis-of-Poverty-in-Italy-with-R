@@ -48,7 +48,7 @@ The project is divided into 5 main scripts in `src` [and better descripted here]
 - ISTAT – Italian National Institute of Statistics  
 - BES Project – Equitable and Sustainable Well-being indicators  
 - European Pillar of Social Rights (EPSR)  
-- Italian National Recovery and Resilience Plan (PNRR)  
+- [Italian National Recovery and Resilience Plan](pnrr.md) (PNRR)  
 
 
 ## 
