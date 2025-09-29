@@ -40,7 +40,7 @@ The project is based on a poverty rate dataset from Italian Statistical Institut
 - Strong territorial divide between Northern and Southern Italy in terms of poverty risk  
 - Moran’s I ≈ 0.72 → strong spatial autocorrelation detected  
 - **SAC model** outperformed SAR (lower AIC score)  
-- Policy implications connected to PNRR and European Pillar of Social Rights  
+- [Policy implications](pnrr.md) connected to PNRR and European Pillar of Social Rights  
 
 ---
 
@@ -48,7 +48,7 @@ The project is based on a poverty rate dataset from Italian Statistical Institut
 - ISTAT – Italian National Institute of Statistics  
 - BES Project – Equitable and Sustainable Well-being indicators  
 - European Pillar of Social Rights (EPSR)  
-- [Italian National Recovery and Resilience Plan](pnrr.md) (PNRR)  
+- Italian National Recovery and Resilience Plan(PNRR)  
 
 
 ## 
