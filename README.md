@@ -39,7 +39,8 @@ The analysis is based on a poverty rate dataset from Italian Statistical Institu
 ---
 
 ## Key [Results](results/readme.md)
-- Strong territorial divide between Northern and Southern Italy in terms of poverty risk  
+- Strong territorial divide between Northern and Southern Italy in terms of poverty risk
+- ![aa](results/maps/italypovmap.png)
 - Moran’s I ≈ 0.72 → strong spatial autocorrelation detected  
 - **SAC model** outperformed SAR (lower AIC score)  
 - [Policy implications](pnrr.md) connected to PNRR and European Pillar of Social Rights  
