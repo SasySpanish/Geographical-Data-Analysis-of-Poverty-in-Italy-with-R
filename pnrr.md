@@ -38,7 +38,7 @@ To achieve these targets, the following principles are adopted:
 
 ---
 
-## 🇮🇹 PNRR – Italy’s Strategic Actions
+## PNRR – Italy’s Strategic Actions
 
 The Italian PNRR translates these goals into national policies, with a strong emphasis on youth and women. Main areas of intervention include:
 
@@ -56,7 +56,7 @@ The Italian PNRR translates these goals into national policies, with a strong em
 - Reducing early school leaving.  
 - Supporting **reskilling and upskilling pathways** for workers in transition and unemployed individuals.  
 
-### 💶 Social Inclusion and Support
+### Social Inclusion and Support
 - Reforming subsidies (e.g., basic income schemes) to tackle **severe material deprivation**.  
 
 ### Tackling Undeclared Work
