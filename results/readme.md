@@ -21,7 +21,7 @@ The analysis combined descriptive statistics, spatial autocorrelation tests, and
 - **Local Moran’s I (LISA)** identifies:
   - **High–High clusters** in the South of Italy (regions with high poverty surrounded by similar regions)  
   - **Low–Low clusters** in the North (regions with low poverty surrounded by similar regions)  
-  - Few isolated High–Low or Low–High cases  
+  - No High–Low or Low–High cases  
 
 ![Moran Scatterplot](maps/moranmapscatter.png)  
 
