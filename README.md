@@ -63,6 +63,7 @@ These findings imply the need for **coordinated regional policies**, since pover
 ---
 
 ## Spatial Autocorrelation (Moran’s I and Local Moran)
+- ![as](results/maps/localmoran.pbg)
 - **Moran’s I = 0.72** → strong positive spatial autocorrelation. High-poverty regions cluster together, as do low-poverty regions.  
 - **LISA Cluster Map**:
   - **High-High cluster**: Southern Italy (critical poverty risk hotspot).  
